@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735137582 source:c:\users\next store\onedrive\documents\koleya\programming 1\final project\check-in and reservation cancellation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
